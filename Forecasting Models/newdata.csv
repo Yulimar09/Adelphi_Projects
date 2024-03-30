@@ -1,0 +1,4 @@
+Date,Orders,PPI_ConcreteProducts_lag3,PPI_ConstructionMaterials_lag3,All_EmployeesConstruction_lag3,HomesUSA_lag3,UnemploymentRate_lag3,JobOpenConstruction_lag3
+1/1/2023,-1.249636699,343.9,333.769,7814,103,3.7,390
+2/1/2023,-1.321593738,347.344,330.548,7833,98,3.6,331
+3/1/2023,-1.747332083,350.787,326.32,7859,95,3.5,413
